@@ -102,16 +102,6 @@
         <div
           v-for="link in [
             {
-              text: $t('about.sponsor'),
-              icon: $globals.icons.heart,
-              href: 'https://github.com/sponsors/hay-kot',
-            },
-            {
-              text: $t('about.github'),
-              icon: $globals.icons.github,
-              href: 'https://github.com/hay-kot/mealie',
-            },
-            {
               text: $t('about.docs'),
               icon: $globals.icons.folderOutline,
               href: 'https://docs.mealie.io/',

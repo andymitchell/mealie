@@ -7,7 +7,7 @@ env:
   DEFAULT_GROUP: Home
   DEFAULT_HOUSEHOLD: Family
   PRODUCTION: false
-  API_PORT: 9000
+  API_PORT: 9001
   API_DOCS: True
   TOKEN_TIME: 256 # hours
   # mailplit SMTP config
